@@ -1,6 +1,7 @@
 # double-slit-sim
 Simulation of the double slit experiment
 
+![Double Slit Experiment Simulation](/output/Double_Slit_Experiment_Simulation.png)
 
 ## Formulas used:
 Wave Equation (reduced): y(x) = A * cos(pi * x/lambda)
